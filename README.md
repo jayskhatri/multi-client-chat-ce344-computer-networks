@@ -1,4 +1,3 @@
-# multi-client-chat
 <h1 align="center">Welcome to Multi Client Chat Room 👋</h1>
 <p>
   <a href="https://github.com/jayskhatri/multi-client-chat-ce344-computer-networks#readme">
