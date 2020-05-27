@@ -41,7 +41,7 @@ Give a ⭐️ if this project helped you !
 ## 📝 License
 
 Copyright © 2019 [Jay Khatri](https://github.com/jayskhatri).<br />
-This project is [MIT](https://github.com/jayskhatri/Super-Market-Management/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/jayskhatri/multi-client-chat-ce344-computer-networks/blob/master/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/jayskhatri/readme-md-generator)_
